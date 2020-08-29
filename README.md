@@ -220,7 +220,7 @@ E pronto! Ao abrir o Portal Azure e acessar o recurso do Azure CosmosDb, verá q
 
 ## Deploy para o Azure ☁️
 
-Para realizar o deploy da aplicação ao Azure precisamos seguir com alguns pessos:
+Para realizar o deploy da aplicação ao Azure precisamos seguir com alguns passos:
 
 Mas antes, vá até a pasta `front` e execute o seguinte o seguinte comando:
 
